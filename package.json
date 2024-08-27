@@ -53,6 +53,6 @@
     "babel-preset-stage-2": "^6.0.15",
     "babel-register": "^6.3.13",
     "chai": "^3.4.0",
-    "webpack": "1.7.2"
+    "webpack": "5.94.0"
   }
 }
